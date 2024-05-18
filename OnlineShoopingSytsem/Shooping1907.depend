@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1715930564 source:c:\users\hp\desktop\shooping1907\main.cpp
+	"header.hpp"
+
+1715930564 c:\users\hp\desktop\shooping1907\header.hpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<algorithm>
+	<sstream>
+
+1715930783 source:c:\users\hp\desktop\shooping1907\functions.cpp
+	"header.hpp"
+
